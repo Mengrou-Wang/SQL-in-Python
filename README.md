@@ -8,12 +8,5 @@ The purpose of this project is to provide recommendations for a video shop to in
 
 [Please click this link for the report and scripts](https://github.com/Mengrou-Wang/SQL-in-Python/blob/main/SQL%20in%20Python.ipynb)
 
-This project was originally completed as part of a team-based training program. While the final submission was submitted as a group project, the code in this repository represents my own implementation and analysis.
 
-My Contributions:
-- Identify business objectives, business questions, outline of report
-- Data cleaning and preprocessing
-- SQL queries and data extraction
-- Business findings and recommendations
-- Notebook documentation
 
